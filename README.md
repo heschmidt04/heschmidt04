@@ -3,6 +3,7 @@
   <img align="center" src="https://media.giphy.com/media/3oEdv6UFowfDXW6YYU/giphy.gif" width="100"/>
 </div>
 
+### :woman_technologist: About Me :
 <div align="left">
   <h1> Hi Folks, I'm Heidi Schmidt :wave:</h1>
   <h2> I'm A Full-Stack Data Engineer with DevOps automation experience located in Malden, Massachusetts.</h2>
