@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hi Folks 👋
 
-<!--
-**heschmidt04/heschmidt04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="left">
+  <img align="center" src="https://media.giphy.com/media/3oEdv6UFowfDXW6YYU/giphy.gif" width="100"/>
+</div>
 
-Here are some ideas to get you started:
+<div align="left">
+  <h1> Hi Folks, I'm Heidi Schmidt :wave:</h1>
+  <p> I'm A Full-Stack Data Engineer with DevOps automation experience located in Malden, Massachusetts.</p>
+  <p> 🌱  I’m currently learning [DBT](https://www.getdbt.com/), [Flask](), and Image Classification with Tensorflow </p>
+  <p> 👯  I’m looking to collaborate on Data Science/Data Engineering techniques within the healthcare industry. </p>
+  <p> 💬  Ask me about: data pipelines, web applications, & machine learning. </p> 
+  <p> 😄 Pronouns: she/her </p>
+  <p> ⚡ Fun fact: I climbed Sydney Harbor Bridge </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :mailbox: Contact Info:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heidi.eli.schmidt/)
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heidi.eli.schmidt@gmail.com)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://)
+
+### :hammer_and_wrench: Languages, Technologies, and Tools:
+
+<div>
+  <img alt="Python" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img alt="MySQL" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img alt="PostgreSQL" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img alt="Terraform" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" />   
+  <img alt="Kubernetes" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+  <img alt="Flask" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+  <img alt="Bootstrap" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img alt="CSS3" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> 
+</div>
