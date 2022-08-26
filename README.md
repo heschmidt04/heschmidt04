@@ -6,7 +6,7 @@
 <div align="left">
   <h1> Hi Folks, I'm Heidi Schmidt :wave:</h1>
   <p> I'm A Full-Stack Data Engineer with DevOps automation experience located in Malden, Massachusetts.</p>
-  <p> 🌱  I’m currently learning [DBT](https://www.getdbt.com/), [Flask](), and Image Classification with Tensorflow </p>
+  <p> 🌱  I’m currently learning  DBT https://www.getdbt.com/, Flask https://flask.palletsprojects.com/en/2.2.x/, and Image Classification with Tensorflow </p>
   <p> 👯  I’m looking to collaborate on Data Science/Data Engineering techniques within the healthcare industry. </p>
   <p> 💬  Ask me about: data pipelines, web applications, & machine learning. </p> 
   <p> 😄 Pronouns: she/her </p>
