@@ -1,4 +1,3 @@
-### Hi Folks 👋
 
 <div id="header" align="left">
   <img align="center" src="https://media.giphy.com/media/3oEdv6UFowfDXW6YYU/giphy.gif" width="100"/>
