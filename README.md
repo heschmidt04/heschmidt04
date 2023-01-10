@@ -5,10 +5,10 @@
 
 ## :woman_technologist: About Me :
 <div align="left">
-  <h2> Hi Folks, I'm Heidi Schmidt :wave: I'm A Full-Stack Data Engineer with DevOps automation experience located in Malden, Massachusetts.</h2>
+  <h2> Hi Folks, I'm Heidi Schmidt :wave: I'm Data Engineer with Database and DevOps automation experience located in Malden, Massachusetts.</h2>
   <p></p>
-  <p> 🌱  I’m currently learning  DBT https://www.getdbt.com/, Flask https://flask.palletsprojects.com/en/2.2.x/, and Image Classification with Tensorflow  https://www.tensorflow.org/tutorials/keras/classification </p>
-  <p> 👯  I’m looking to collaborate on Data Science/Data Engineering techniques within the healthcare industry. </p>
+  <p> 🌱  I've been working on DBT https://www.getdbt.com/, Flask https://flask.palletsprojects.com/en/2.2.x/, and Image Classification with Tensorflow  https://www.tensorflow.org/tutorials/keras/classification </p>
+  <p> 👯  I’m looking to collaborate on Data Science/Data Engineering techniques within commerce, wearable health tech, and environmental related  industries. </p>
   <p> 💬  Ask me about: data pipelines, web applications, & machine learning. </p> 
   <p> 😄 Pronouns: she/her </p>
   <p> ⚡ Fun fact: I climbed Sydney Harbor Bridge </p>
